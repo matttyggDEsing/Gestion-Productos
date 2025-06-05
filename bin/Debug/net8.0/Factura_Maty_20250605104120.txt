@@ -1,0 +1,9 @@
+Factura para: Maty
+Dirección: los arrayanes 240
+Ciudad: Crespo
+-----------------------------
+2x Yerba - $2500,00
+89x Yerba - $2500,00
+-----------------------------
+Total a pagar: $227500,00
+Fecha: 5/6/2025 10:41:20

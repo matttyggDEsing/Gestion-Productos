@@ -1,0 +1,9 @@
+Factura para: Maty
+Dirección: los arrayanes 240
+Ciudad: Crespo
+-----------------------------
+60x Pan - $1400,00
+100x Pan - $1400,00
+-----------------------------
+Total a pagar: $224000,00
+Fecha: 5/6/2025 15:34:47
